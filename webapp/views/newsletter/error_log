@@ -1,0 +1,1 @@
+[09-Mar-2018 21:19:24 UTC] PHP Fatal error:  Using $this when not in object context in /mnt/efs/public_html/webapp/views/newsletter/autoresponder_email_setting.php on line 1
